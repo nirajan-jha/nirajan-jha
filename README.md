@@ -2,7 +2,7 @@
 ## A passionate Data Analyst
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/7029641/146683254-7d5478d5-4d16-4b4d-91c7-29de1a683e54.png" height="300px" width="800px" alt="Data Analyst">
+  <img src="https://img.icons8.com/color/48/000000/data-analytics.png" height="200px" width="200px" alt="Data Analyst Icon">
 </p>
 <p>
 I’m interested in Data Analytics. I also enjoy writing articles on Medium. 
