@@ -12,8 +12,7 @@ I’m interested in Data Analytics. I also enjoy writing articles on Medium.
 - 🌱 I’m currently pursuing my Postgraduate Program at Imarticus Learning, Bangalore.
 - 🔭 I’m currently working on Deep Learning Model.
 
-- 💬 Ask me about:
-- Data Analytics, Python, SQL, Machine Learning
+- 💬 Ask me about: Data Analytics, Python, SQL, Machine Learning
 
 - 🤝 I’m looking to collaborate on Data Analytics Field.
 - 📫 How to reach me: <a href="nirajanjha141@gmail.com</a>
