@@ -2,7 +2,7 @@
 ## A passionate Data Analyst
 
 <p align="center">
-  <img https://img.freepik.com/free-vector/site-stats-concept-illustration_114360-1444.jpg?w=826&t=st=1722778829~exp=1722779429~hmac=ccc5d554610650a5d6ebaec84566fa8f4df7d8a3090475692de46c7fe54a2434" alt="Data Analyst">
+  <img src="https://images.unsplash.com/photo-1506748686214e9df14b1b22e3b9?fit=crop&w=1200&h=400" height="400px" width="1000px" alt="Data Analyst Banner">
 </p>
 <p>
 I’m interested in Data Analytics. I also enjoy writing articles on Medium. 
