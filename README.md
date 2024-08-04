@@ -1,4 +1,4 @@
-# Hey there 👋! Nirajan Jha here. Let's connect!
+# Hey 👋! Nirajan Jha here. Let's connect!
 ## A passionate Data Analyst
 
 <p align="center">
