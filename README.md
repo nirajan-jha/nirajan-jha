@@ -36,15 +36,13 @@ I’m interested in Data Analytics. I also enjoy writing articles on Medium.
 
 - **MySQL** <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="40px">
 
-- **Excel** <img src="https://raw.githubusercontent.com/github/explore/main/topics/excel/excel.png" width="40px">
-
-- **Machine Learning** <img src="https://raw.githubusercontent.com/github/explore/main/topics/machine-learning/machine-learning.png" width="40px">
+- **Excel** <img src="https://img.icons8.com/color/48/000000/ms-excel.png" width="40px">
 
 - **Pandas** <img src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png" width="40px">
 
 - **NumPy** <img src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" width="40px">
 
-- **Power BI** <img src="https://img.icons8.com/color/452/power-bi.png" width="40px">
+- **Power BI** <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40px">
 
 ### Interests 🌟
 
