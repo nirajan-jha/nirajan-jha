@@ -15,7 +15,7 @@ I’m interested in Data Analytics. I also enjoy writing articles on Medium.
 - 💬 Ask me about: Data Analytics, Python, SQL, Machine Learning
 
 - 🤝 I’m looking to collaborate on Data Analytics Field.
-- 📫 How to reach me: <a href="nirajanjha141@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:nirajanjha141@gmail.com">nirajanjha141@gmail.com</a>
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nirajan-jha&theme=highcontrast&show_icons=true&count_private=true)
@@ -41,7 +41,7 @@ I’m interested in Data Analytics. I also enjoy writing articles on Medium.
 
 - **NumPy** <img src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" width="40px">
 
-- **Power BI** <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40px">
+- **Power BI** <img src="https://img.icons8.com/color/48/000000/microsoft-power-bi.png" width="40px">
 
 ### Interests 🌟
 
@@ -62,19 +62,20 @@ I’m interested in Data Analytics. I also enjoy writing articles on Medium.
 
 ### Languages and Platforms 🦄
 
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/excel.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/numpy.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/pandas.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/machine-learning.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/powerbi.png"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/28517335/102723536-9f979480-432e-11eb-8552-fdb39e939362.png" alt="Python"></code>
+<code><img height="40" src="https://img.icons8.com/ios-filled/50/000000/numpy.png" alt="NumPy"></code>
+<code><img height="40" src="https://img.icons8.com/ios-filled/50/000000/pandas.png" alt="Pandas"></code>
+<code><img height="40" src="https://img.icons8.com/ios-filled/50/000000/machine-learning.png" alt="Machine Learning"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/microsoft-power-bi.png" alt="Power BI"></code>
 
 
-### Platforms 👨‍
+### Connect with Me 🌐
 <p>
-<a href="https://https://www.linkedin.com/in/nirajan-jha/">
+<a href="https://www.linkedin.com/in/nirajan-jha/">
 <img src="https://img.shields.io/badge/LinkedIn-nirajan-blue">
+</a>
 <a href="https://medium.com/@nirajan_DataAnalyst">
 <img src="https://img.shields.io/badge/Medium-nirajan-blue">
 </a>
