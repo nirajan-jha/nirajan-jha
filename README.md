@@ -2,7 +2,7 @@
 ## A passionate Data Analyst
 
 <p align="center">
-  <img src="https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
+  <img src="https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"height="400px" width="1000px">
 </p>
 <p>
 I’m interested in Data Analytics. I also enjoy writing articles on Medium. 
