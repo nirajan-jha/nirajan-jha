@@ -65,7 +65,7 @@ I’m interested in Data Analytics. I also enjoy writing articles on Medium.
 <code><img height="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/28517335/102723536-9f979480-432e-11eb-8552-fdb39e939362.png" alt="Python"></code>
-<code><img height="40" src="https://img.icons8.com/ios-filled/50/000000/numpy.png" alt="NumPy"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" alt="NumPy"></code>
 <code><img height="40" src="https://img.icons8.com/ios-filled/50/000000/pandas.png" alt="Pandas"></code>
 <code><img height="40" src="https://img.icons8.com/ios-filled/50/000000/machine-learning.png" alt="Machine Learning"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/microsoft-power-bi.png" alt="Power BI"></code>
