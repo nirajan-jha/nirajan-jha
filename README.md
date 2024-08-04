@@ -41,7 +41,7 @@ I’m interested in Data Analytics. I also enjoy writing articles on Medium.
 
 - **NumPy** <img src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" width="40px">
 
-- **Power BI** <img src="https://img.icons8.com/color/48/000000/microsoft-power-bi.png" width="40px">
+- **Power BI** <img src="https://camo.githubusercontent.com/f9a8f89615c8a74e7462539290f74e295aa06c6074d740203d701266bc257da3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f706f7765722d62692d323032312e706e67" width="40px">
 
 ### Interests 🌟
 
