@@ -48,14 +48,8 @@ I’m interested in Data Analytics. I also enjoy writing articles on Medium.
 
 
 ### Connect with Me 🌐
-<p>
-<a href="https://www.linkedin.com/in/nirajan-jha/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2019.svg" alt="LinkedIn" width="40px">
-</a>
-<a href="https://medium.com/@nirajan_DataAnalyst">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Medium_%28website%29_logo_2018.svg" alt="Medium" width="40px">
-</a>
-</p>
+<br /> [<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png">](https://www.linkedin.com/in/nirajan-jha/) [<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/medium-logo.png" alt="medium-logo"/>](https://medium.com/@nirajan_DataAnalyst)
+
 
 ### Languages and Tools 🦄
 
