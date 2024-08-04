@@ -1,4 +1,4 @@
-# Hi there 👋, Nirajan Jha here!
+# Hey there 👋! Nirajan Jha here. Let's connect!
 ## A passionate Data Analyst
 
 <p align="center">
@@ -51,7 +51,7 @@ I’m interested in Data Analytics. I also enjoy writing articles on Medium.
 <br /> [<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png">](https://www.linkedin.com/in/nirajan-jha/) [<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/medium-logo.png" alt="medium-logo"/>](https://medium.com/@nirajan_DataAnalyst)
 
 
-### Languages and Tools 🦄
+### Languages and Tools 🛠️
 
 <code><img height="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL"></code>
