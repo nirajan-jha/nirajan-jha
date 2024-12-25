@@ -2,7 +2,7 @@
 ## A passionate Data Analyst
 C:\Users\Acer\OneDrive\Desktop\1725334401309.jpg
 <p align="center">
-  <img src=""C:\Users\Acer\OneDrive\Desktop\1725334401309.jpg"?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"height="300px" width="1000px">
+  <img src="C:\Users\Acer\OneDrive\Desktop\1725334401309.jpg"?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"height="300px" width="1000px">
 </p>
 <p>
 I’m interested in Data Analytics. I also enjoy writing articles on Medium. 
